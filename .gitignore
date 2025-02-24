@@ -1,0 +1,34 @@
+# Ignorar arquivos de configuração do IntelliJ IDEA
+.idea/
+*.iml
+
+# Ignorar arquivos compilados
+out/
+*.class
+
+# Ignorar arquivos de áudio
+*.wav
+
+# Ignorar arquivos de configuração do Git e do sistema
+.DS_Store
+*.log
+*.tmp
+
+# Ignorar arquivos específicos da pasta .idea
+.idea/checkstyle-idea.xml
+.idea/dictionaries/
+.idea/inspectionProfiles/
+.idea/libraries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+
+# Ignorar arquivos de configuração das semanas
+semana_1/semana_1.iml
+semana_2/semana_2.iml
+semana_3/semana_3.iml
+semana_4/semana_4.iml
+semana_5/semana_5.iml
+semana_6/semana_6.iml
+semana_7/semana_7.iml
