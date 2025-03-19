@@ -27,6 +27,9 @@ O projeto está organizado em semanas, cada uma contendo diferentes tópicos e e
 - **semana_7**: Análise de desempenho e otimização de algoritmos.
   - Exemplos: `Inversions.java`, `Ramanujan.java`.
 
+- **semana_8**: Uso de tipos de dados.
+  - Exemplos: `Huntingtons.java`, `KernelFilter.java`.
+
 ## Como Usar
 
 1. Clone o repositório:
